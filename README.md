@@ -16,7 +16,7 @@ Specific topics covered include:
 
   [Abstract Syntax Tree Calculator](https://github.com/jakeyoung-517/CSE373/blob/master/HW1/src/main/java/calculator/ast/ExpressionManipulators.java)
 
-**HW2 Chained Hash Dictionary, Chained Hash Set and Testing**
+### HW2 Chained Hash Dictionary, Chained Hash Set and Testing
 
   [Chained Hash Dictionary Implementation](https://github.com/jakeyoung-517/CSE373/blob/master/HW2/src/main/java/datastructures/concrete/dictionaries/ChainedHashDictionary.java)
 
@@ -24,7 +24,7 @@ Specific topics covered include:
 
   [Unit Test](https://github.com/jakeyoung-517/CSE373/tree/master/HW2/src/test/java/datastructures)
 
-**HW3 Search Engine**
+### HW3 Search Engine
 
   [Minimum Array Heap Implementation](https://github.com/jakeyoung-517/CSE373/blob/master/HW3/src/main/java/datastructures/concrete/ArrayHeap.java)
 
@@ -34,7 +34,7 @@ Specific topics covered include:
 
   [Page Ranking Algorithm](https://github.com/jakeyoung-517/CSE373/blob/master/HW3/src/main/java/search/analyzers/PageRankAnalyzer.java)
 
-**HW4 Generating and Solving Mazes**
+### HW4 Generating and Solving Mazes
 
   [Array Disjoint Set Implementation](https://github.com/jakeyoung-517/CSE373/blob/master/HW4/src/main/java/datastructures/concrete/ArrayDisjointSet.java)
 
