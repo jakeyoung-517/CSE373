@@ -8,7 +8,7 @@ Specific topics covered include:
 -Algorithm analysis: asymptotic analysis, locality, P and NP complexity classes
 -Sorting and divide-and-conquer
 
-##### HW1 Calculator Project
+### HW1 Calculator Project
 
   [Double Linked List Implementation](https://github.com/jakeyoung-517/CSE373/blob/master/HW1/src/main/java/datastructures/concrete/DoubleLinkedList.java)
 
