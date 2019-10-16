@@ -10,11 +10,11 @@ Specific topics covered include:
 
 **HW1 Calculator Project**
 
-  Double Linked List Implementation --> https://github.com/jakeyoung-517/CSE373/blob/master/HW1/src/main/java/datastructures/concrete/DoubleLinkedList.java
+  [Double Linked List Implementation] (https://github.com/jakeyoung-517/CSE373/blob/master/HW1/src/main/java/datastructures/concrete/DoubleLinkedList.java)
 
-  Array Dictionary Implementation --> https://github.com/jakeyoung-517/CSE373/blob/master/HW1/src/main/java/datastructures/concrete/dictionaries/ArrayDictionary.java
+  [Array Dictionary Implementation] (https://github.com/jakeyoung-517/CSE373/blob/master/HW1/src/main/java/datastructures/concrete/dictionaries/ArrayDictionary.java)
 
-  Abstract Syntax Tree Calculator --> https://github.com/jakeyoung-517/CSE373/blob/master/HW1/src/main/java/calculator/ast/ExpressionManipulators.java
+  [Abstract Syntax Tree Calculator] (https://github.com/jakeyoung-517/CSE373/blob/master/HW1/src/main/java/calculator/ast/ExpressionManipulators.java)
 
 **HW2 Chained Hash Dictionary, Chained Hash Set and Testing**
 
